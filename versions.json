@@ -1,10 +1,10 @@
 {
  "version_numbers": {
    "stable": "1.21",
-   "beta": "1.21b",
+   "beta": "1.21b"
  },
  "install_link": {
    "stable": "https://github.com/ShortyReps/Buttstrapper/releases/download/Buttstrapper-Beta-Update/ButtstrappMain.exe",
-   "beta": "https://github.com/ShortyReps/Buttstrapper/releases/download/Buttstrapper-Beta-Update/ButtstrappMain.exe",
+   "beta": "https://github.com/ShortyReps/Buttstrapper/releases/download/Buttstrapper-Beta-Update/ButtstrappMain.exe"
  }
 }
