@@ -4,7 +4,7 @@
    "beta": "1.21b"
  },
  "install_link": {
-   "stable": "https://github.com/ShortyReps/Buttstrapper/releases/download/Buttstrapper-Beta-Update/ButtstrappMain.exe",
-   "beta": "https://github.com/ShortyReps/Buttstrapper/releases/download/Buttstrapper-Beta-Update/ButtstrappMain.exe"
+   "stable": "https://github.com/ShortyReps/ButtstrapperDownloadReleases/releases/download/Release/Buttstrapper.exe",
+   "beta": "https://github.com/ShortyReps/ButtstrapperDownloadReleases/releases/download/Release/Buttstrapper.exe"
  }
 }
