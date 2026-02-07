@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ShortyReps/Buttstrapper/blob/main/Images/Thumbnail2.png?raw=true#gh-dark-mode-only" width="380">
-  <img src="https://github.com/ShortyReps/Buttstrapper/blob/main/Images/ThumbnailWhite.png?raw=true#gh-white-mode-only" width="380">
+  <img src="https://raw.githubusercontent.com/ShortyReps/Buttstrapper/refs/heads/main/Images/Thumbnail2.png#gh-dark-mode-only" width="380">
+  <img src="https://raw.githubusercontent.com/ShortyReps/Buttstrapper/refs/heads/main/Images/ThumbnailWhite.png#gh-white-mode-only" width="380">
 </p>
 
 # Buttstrapper
