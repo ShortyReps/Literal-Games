@@ -1,6 +1,5 @@
-<p align="center">
+<p align="Left">
   <img src="https://raw.githubusercontent.com/ShortyReps/Buttstrapper/refs/heads/main/Images/Thumbnail2.png#gh-dark-mode-only" width="380">
-  <img src="https://raw.githubusercontent.com/ShortyReps/Buttstrapper/refs/heads/main/Images/ThumbnailWhite.png#gh-white-mode-only" width="380">
 </p>
 
 # Buttstrapper
