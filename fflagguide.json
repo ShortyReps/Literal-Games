@@ -559,7 +559,371 @@
       "description": "[CONFIRMED] Disables atmospheric fog rendering.",
       "recommendations": { "performance": "True", "quality": "False", "stable": "False" }
     },
-
+  {
+    "flag": "FFlagRenderEnableAdvancedShadows",
+    "description": "[EXPERIMENTAL] Activates advanced shadow rendering techniques for improved realism. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagLightingEnableColorGrading",
+    "description": "[EXPERIMENTAL] Enables color grading for artistic visual effects and ambiance. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagPhysicsEnableMultiThreading",
+    "description": "[CONFIRMED] Enables multi-threaded physics calculations for better performance on multi-core processors. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagStreamingEnableTextureMipmaps",
+    "description": "[CONFIRMED] Uses mipmaps for textures, improving performance while reducing visual popping at various distances. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableTessellation",
+    "description": "[EXPERIMENTAL] Enables tessellation for higher detail in 3D models at closer distances. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagNetworkingEnableClientSidePrediction",
+    "description": "[CONFIRMED] Enables client-side prediction for smoother gameplay in fast-paced online games. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagLightingEnableSkyboxBlur",
+    "description": "[EXPERIMENTAL] Adds a blur effect to the skybox for more atmospheric visuals. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagMemoryEnableTextureStreaming",
+    "description": "[CONFIRMED] Enables texture streaming to reduce memory usage by loading textures as needed. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "True" }
+  },
+  {
+    "flag": "FFlagPhysicsEnableSoftBodySimulation",
+    "description": "[EXPERIMENTAL] Enables soft-body physics for more realistic object deformations. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagRenderEnableRealTimeReflections",
+    "description": "[EXPERIMENTAL] Activates real-time reflections for enhanced realism in reflective surfaces. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAvatarEnableClothingLayering",
+    "description": "[CONFIRMED] Allows multiple layers of clothing to be worn at once, providing more customization. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagLightingEnableDynamicDayNightCycle",
+    "description": "[EXPERIMENTAL] Enables a dynamic day-night cycle for more immersive environments. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagNetworkingEnablePacketLossRecovery",
+    "description": "[CONFIRMED] Implements packet loss recovery for a smoother experience in low-quality networks. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagAvatarEnableSkinnedMeshRendering",
+    "description": "[CONFIRMED] Enables skinned mesh rendering for smoother character animation. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagPhysicsEnableFluidDynamics",
+    "description": "[EXPERIMENTAL] Adds realistic fluid dynamics for water and other liquids in the game. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagRenderEnablePostProcessingEffects",
+    "description": "[EXPERIMENTAL] Activates post-processing effects like bloom and lens flares for cinematic visuals. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagLightingEnableSunShafts",
+    "description": "[EXPERIMENTAL] Enables sun shaft effects for more realistic sunlight scattering. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagNetworkingEnableVoiceChatCompression",
+    "description": "[CONFIRMED] Compresses voice chat for reduced bandwidth usage while maintaining clarity. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableScreenSpaceReflections",
+    "description": "[EXPERIMENTAL] Activates screen-space reflections for real-time mirror-like effects. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagPhysicsEnableGravityField",
+    "description": "[EXPERIMENTAL] Adds customizable gravity fields for unique gameplay effects. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagRenderEnableVolumetricClouds",
+    "description": "[EXPERIMENTAL] Adds volumetric clouds for a more immersive and dynamic sky. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAvatarEnableEmoteSyncing",
+    "description": "[CONFIRMED] Synchronizes emote animations across all players for better multiplayer experiences. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagMemoryEnableScriptCompression",
+    "description": "[CONFIRMED] Compresses scripts during runtime to save memory and improve load times. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableDirectionalBlur",
+    "description": "[EXPERIMENTAL] Adds directional blur effects to simulate high-speed motion. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagRenderEnableTiledDeferredLighting",
+    "description": "[EXPERIMENTAL] Enables tiled deferred lighting for more efficient light handling. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagPhysicsAsyncFluidSimulation",
+    "description": "[CONFIRMED] Asynchronous fluid simulation for better performance during high load. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableDepthOfField",
+    "description": "[EXPERIMENTAL] Enables depth of field effects for more cinematic visuals. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAnimationBoneCacheOptimization",
+    "description": "[CONFIRMED] Optimizes bone cache to improve animation performance. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagNetworkingEnableAdaptiveCompression",
+    "description": "[CONFIRMED] Enables adaptive network data compression based on network conditions. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableGlobalIllumination",
+    "description": "[EXPERIMENTAL] Uses global illumination for more realistic lighting. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagStreamingTextureCompression",
+    "description": "[CONFIRMED] Compresses textures during streaming to reduce memory usage. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableMotionBlur",
+    "description": "[EXPERIMENTAL] Enables motion blur effect for smoother movement visuals. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagMemoryDynamicAssetUnload",
+    "description": "[CONFIRMED] Dynamically unloads assets from memory when not needed. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableAmbientOcclusion",
+    "description": "[EXPERIMENTAL] Adds ambient occlusion for better shading and realism. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAvatarStreamingLodBias",
+    "description": "[CONFIRMED] Adjusts LOD bias for avatar streaming to balance performance and visual quality. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagPhysicsEnableFracture",
+    "description": "[EXPERIMENTAL] Enables object fracture simulation when broken. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagRenderEnableVolumetricLighting",
+    "description": "[EXPERIMENTAL] Enables volumetric lighting effects for a more dynamic scene. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagPhysicsParticleColliderOptimization",
+    "description": "[CONFIRMED] Optimizes particle collisions with physics objects for better performance. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagLightingEnableLensFlare",
+    "description": "[EXPERIMENTAL] Adds lens flare effect for bright light sources. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagNetworkingEnableLowLatencyPrediction",
+    "description": "[CONFIRMED] Uses low-latency prediction to improve responsiveness in fast-paced games. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableLensDistortion",
+    "description": "[EXPERIMENTAL] Adds lens distortion effect for a cinematic visual style. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAvatarEnableAppearanceCaching",
+    "description": "[CONFIRMED] Caches avatar appearances to speed up subsequent loads. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableObjectReflection",
+    "description": "[EXPERIMENTAL] Enables reflections on 3D objects for realism. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagPhysicsReduceSubstepIterations",
+    "description": "[CONFIRMED] Reduces the number of physics substep iterations to improve performance. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "True" }
+  },
+  {
+    "flag": "FFlagLightingEnableRainEffects",
+    "description": "[EXPERIMENTAL] Adds rain effects to the lighting system for dynamic weather. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagRenderEnableHighQualityReflections",
+    "description": "[EXPERIMENTAL] Enables high-quality reflections for a more realistic appearance. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagMemoryEnableAssetDeduplication",
+    "description": "[CONFIRMED] Duplicates assets in memory for faster load times. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderAsyncComputeShaders",
+    "description": "[CONFIRMED] Enables asynchronous compute shaders for faster GPU processing. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagPhysicsThreadedBroadphase",
+    "description": "[EXPERIMENTAL] Moves physics broadphase calculations to a separate thread. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAvatarAsyncLoadParts",
+    "description": "[CONFIRMED] Loads avatar parts asynchronously to reduce initial load times. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagStreamingReduceTextureDetail",
+    "description": "[EXPERIMENTAL] Reduces streamed texture detail when far from camera. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "True" }
+  },
+  {
+    "flag": "FFlagNetworkPredictiveInterpolation",
+    "description": "[CONFIRMED] Improves player movement smoothness using predictive interpolation. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableRaytracedShadows",
+    "description": "[EXPERIMENTAL] Enables ray-traced shadows for higher visual fidelity. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAnimationGpuSkinning",
+    "description": "[CONFIRMED] Offloads avatar skinning calculations to GPU. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagVRAMTexturePoolLimit",
+    "description": "[CONFIRMED] Sets maximum VRAM used by textures to prevent GPU thrashing. [CONFIDENCE]",
+    "recommendations": { "performance": "512", "quality": "2048", "stable": "1024" }
+  },
+  {
+    "flag": "FFlagRenderDisableVolumetricFog",
+    "description": "[CONFIRMED] Turns off volumetric fog for performance gain. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "True" }
+  },
+  {
+    "flag": "FFlagFastGuiRenderPipeline",
+    "description": "[EXPERIMENTAL] Uses optimized rendering for UI elements. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagParticleAsyncSimulation",
+    "description": "[CONFIRMED] Simulates particle systems asynchronously. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagPhysicsAdaptiveSolverIterations",
+    "description": "[EXPERIMENTAL] Adjusts physics solver iterations dynamically based on load. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAvatarLODStreaming",
+    "description": "[CONFIRMED] Loads lower LODs of avatars at distance to improve performance. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableTAA",
+    "description": "[EXPERIMENTAL] Enables Temporal Anti-Aliasing for smoother visuals. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagDynamicShadowResolution",
+    "description": "[CONFIRMED] Adjusts shadow map resolution based on camera distance. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagPhysicsAsyncCollisionChecks",
+    "description": "[EXPERIMENTAL] Runs collision checks asynchronously to reduce frame spikes. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "False", "stable": "False" }
+  },
+  {
+    "flag": "FFlagStreamingAsyncSoundLoad",
+    "description": "[CONFIRMED] Loads audio assets asynchronously during gameplay. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableSSR",
+    "description": "[EXPERIMENTAL] Enables Screen-Space Reflections for improved realism. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagAvatarGpuCulling",
+    "description": "[CONFIRMED] Offloads distant avatar culling to GPU. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagLightingVolumetricClouds",
+    "description": "[EXPERIMENTAL] Enables volumetric clouds in lighting system. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagMemoryReduceGarbageFrequency",
+    "description": "[CONFIRMED] Reduces frequency of memory GC for smoother gameplay. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagPhysicsEnableSleepOnStart",
+    "description": "[CONFIRMED] Physics objects start in sleep state to reduce initial load. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderAsyncPostProcessing",
+    "description": "[EXPERIMENTAL] Post-processing effects run asynchronously for better FPS. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagNetworkingReducedPingInterpolation",
+    "description": "[CONFIRMED] Reduces interpolation delay for networked avatars. [CONFIDENCE]",
+    "recommendations": { "performance": "True", "quality": "True", "stable": "True" }
+  },
+  {
+    "flag": "FFlagRenderEnableBloom",
+    "description": "[EXPERIMENTAL] Enables bloom post-processing effect. [CONFIDENCE]",
+    "recommendations": { "performance": "False", "quality": "True", "stable": "False" }
+  },
+  {
+    "flag": "FFlagStreamingTextureMipBias",
+    "description": "[CONFIRMED] Adjusts mipmap level bias for streamed textures. [CONFIDENCE]",
+    "recommendations": { "performance": "2", "quality": "0", "stable": "1" }
+  },
     {
       "flag": "FFlagCommitToGraphicsQualityFix",
       "description": "[CONFIRMED] Stabilizes graphics quality selection logic.",
