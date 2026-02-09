@@ -1,30 +1,21 @@
 {
   "newsFeed": [
     {
-      "id": 101,
+      "id": 1,
       "title": "Buttstrapper 2.1 is LIVE!",
-      "description": "The new Buttstrapper update has been released to the Beta Branch of Buttstrapper. Do you wish to update?",
-      "thumbnail": "https://example.com/images/mars-oxygen-test.jpg",
-      "hyperlink": "https://example.com/news/mars-colony-breakthrough",
+      "description": "The new Buttstrapper update has been released to the Beta Branch of Buttstrapper. Do you wish to update? Click View More to download!",
+      "thumbnail": "https://wallpapers.com/images/hd/roblox-boy-2048-x-1152-pd53irm5golegxiq.jpg",
+      "hyperlink": "https://github.com/ShortyReps/Buttstrapper/releases/tag/Buttstrapper-Stable-Update",
       "postDate": "2026-2-9",
       "showAsCurrent": true
     },
     {
-      "id": 102,
-      "title": "Global Ocean Cleanup Reaches New Milestone",
-      "description": "The initiative has removed over 500 tons of plastic from the Pacific Ocean this quarter alone.",
-      "thumbnail": "https://example.com/images/ocean-cleanup.jpg",
-      "hyperlink": "https://example.com/news/ocean-cleanup-milestone",
+      "id": 2,
+      "title": "Does Roblox's AI Verification Suck? Sign the petition!",
+      "description": "",
+      "thumbnail": "https://th.bing.com/th/id/OIP.bTq-Lk9t-cqd40BE5N3dYgHaEK?w=327&h=183&c=7&r=0&o=7&pid=1.7&rm=3",
+      "hyperlink": "https://www.change.org/p/remove-david-baszucki",
       "postDate": "2023-10-26T09:15:00Z",
-      "showAsCurrent": true
-    },
-    {
-      "id": 103,
-      "title": "Annual Tech Summit Scheduled for November",
-      "description": "Leading tech giants will gather in San Francisco to discuss the future of AI and quantum computing.",
-      "thumbnail": "https://example.com/images/tech-summit-2023.jpg",
-      "hyperlink": "https://example.com/events/tech-summit-2023",
-      "postDate": "2023-09-15T10:00:00Z",
       "showAsCurrent": false
     }
   ]
