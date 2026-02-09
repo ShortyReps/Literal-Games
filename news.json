@@ -1,0 +1,31 @@
+{
+  "newsFeed": [
+    {
+      "id": 101,
+      "title": "Buttstrapper 2.1 is LIVE!",
+      "description": "The new Buttstrapper update has been released to the Beta Branch of Buttstrapper. Do you wish to update?",
+      "thumbnail": "https://example.com/images/mars-oxygen-test.jpg",
+      "hyperlink": "https://example.com/news/mars-colony-breakthrough",
+      "postDate": "2026-2-9",
+      "showAsCurrent": true
+    },
+    {
+      "id": 102,
+      "title": "Global Ocean Cleanup Reaches New Milestone",
+      "description": "The initiative has removed over 500 tons of plastic from the Pacific Ocean this quarter alone.",
+      "thumbnail": "https://example.com/images/ocean-cleanup.jpg",
+      "hyperlink": "https://example.com/news/ocean-cleanup-milestone",
+      "postDate": "2023-10-26T09:15:00Z",
+      "showAsCurrent": true
+    },
+    {
+      "id": 103,
+      "title": "Annual Tech Summit Scheduled for November",
+      "description": "Leading tech giants will gather in San Francisco to discuss the future of AI and quantum computing.",
+      "thumbnail": "https://example.com/images/tech-summit-2023.jpg",
+      "hyperlink": "https://example.com/events/tech-summit-2023",
+      "postDate": "2023-09-15T10:00:00Z",
+      "showAsCurrent": false
+    }
+  ]
+}
