@@ -15,7 +15,25 @@
       "description": "Roblox has put millions of children in danger, All fault of CEO David and his questionable decisions.",
       "thumbnail": "https://th.bing.com/th/id/OIP.bTq-Lk9t-cqd40BE5N3dYgHaEK?w=327&h=183&c=7&r=0&o=7&pid=1.7&rm=3",
       "hyperlink": "https://www.change.org/p/remove-david-baszucki",
-      "postDate": "2023-10-26T09:15:00Z",
+      "postDate": "2026-2-9",
+      "showAsCurrent": false
+    },
+    {
+      "id": 3,
+      "title": "Roblox Newsroom",
+      "description": "Roblox's official Newsroom.",
+      "thumbnail": "https://cms-media.roblox.com/resize=width:1280,fit:max/GnaqqRBTcCuoRELL938w",
+      "hyperlink": "https://about.roblox.com/newsroom",
+      "postDate": "2026-2-9",
+      "showAsCurrent": false
+    },
+    {
+      "id": 3,
+      "title": "Roblox Website",
+      "description": "Roblox's official Website app,",
+      "thumbnail": "https://cms-media.roblox.com/resize=width:1280,fit:max/GnaqqRBTcCuoRELL938w",
+      "hyperlink": "https://roblox.com",
+      "postDate": "2026-2-9",
       "showAsCurrent": false
     }
   ]
