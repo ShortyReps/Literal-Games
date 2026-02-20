@@ -2,6 +2,15 @@
   "newsFeed": [
      {
       "id": 1,
+      "title": ".Butt is coming TOMORROW in the LATEST UPDATE!",
+      "description": "Base64 Encoded JSON for sharing MULTIPLE Presets at ONCE! .butt is here to stay, i hope... I do like that name :3",
+      "thumbnail": "https://i.ibb.co/qF4ZDqRW/butt.png",
+      "hyperlink": "https://github.com/ShortyReps/Buttstrapper/releases/tag/Buttstrapper-Stable-Update",
+      "postDate": "2026-2-20",
+      "showAsCurrent": true
+    },
+     {
+      "id": 1,
       "title": "Buttstrapper's numbers have changed.",
       "description": "Our new version numbers are here, for a more consistent look and more information, we also just wanted to use PP. :)",
       "thumbnail": "https://i.ibb.co/p6S9qHfm/News.png",
