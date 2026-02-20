@@ -1,7 +1,7 @@
 {
  "version_numbers": {
-   "stable": "2.01",
-   "beta": "3.0B"
+   "stable": "26.2.20.01",
+   "beta": "26.2.20.01b"
  },
  "install_link": {
    "stable": "https://github.com/ShortyReps/ButtstrapperDownloadReleases/releases/download/Release/Buttstrapper.exe",
