@@ -2,44 +2,17 @@
   "newsFeed": [
     {
       "id": 1,
-      "title": "This week's game recommendations are HERE! Steal a Femboy, Bloxstrike and Overkill",
-      "description": "Buttstrapper has some recommendations for you! These games have been played and tested with flags, working great to improve gameplay!",
-      "thumbnail": "https://i.ibb.co/G47MtdFf/IMG-0163.jpg",
+      "title": "There's now only ONE way to update Buttstrapper.",
+      "description": "Due to multiple issues, we have removed the Automatic Updater from Buttstrapper.",
+      "thumbnail": "https://i.ibb.co/bRRpqp6d/News.png",
       "hyperlink": "https://roblox.com",
-      "postDate": "2026-2-22",
-      "showAsCurrent": true
-    },
-     {
-      "id": 1,
-      "title": ".Butt is coming TOMORROW in the LATEST UPDATE!",
-      "description": "Base64 Encoded JSON for sharing MULTIPLE Presets at ONCE! .butt is here to stay, i hope... I do like that name :3",
-      "thumbnail": "https://i.ibb.co/qF4ZDqRW/butt.png",
-      "hyperlink": "https://github.com/ShortyReps/Buttstrapper/releases/tag/Buttstrapper-Stable-Update",
-      "postDate": "2026-2-20",
-      "showAsCurrent": true
-    },
-     {
-      "id": 1,
-      "title": "Buttstrapper's numbers have changed.",
-      "description": "Our new version numbers are here, for a more consistent look and more information, we also just wanted to use PP. :)",
-      "thumbnail": "https://i.ibb.co/p6S9qHfm/News.png",
-      "hyperlink": "https://github.com/ShortyReps/Buttstrapper/releases/tag/Buttstrapper-Stable-Update",
-      "postDate": "2026-2-20",
-      "showAsCurrent": true
-    },
-    {
-      "id": 1,
-      "title": "Buttstrapper 2.1 is LIVE!",
-      "description": "The new Buttstrapper update has been released to the Beta Branch of Buttstrapper. Do you wish to update? Click 'Check it out' to download!",
-      "thumbnail": "https://i.postimg.cc/CBzmYz8m/roblox-logo-classic.jpg",
-      "hyperlink": "https://github.com/ShortyReps/Buttstrapper/releases/tag/Buttstrapper-Stable-Update",
-      "postDate": "2026-2-9",
+      "postDate": "2026-2-24",
       "showAsCurrent": true
     },
     {
       "id": 2,
       "title": "Does Roblox's AI Verification Suck? Sign the petition!",
-      "description": "Roblox has put millions of children in danger, All fault of CEO David and his questionable decisions.",
+      "description": "Roblox has put millions of children in danger, All fault Roblox themselves.",
       "thumbnail": "https://i.postimg.cc/LYnNRnPT/roblox-id.webp",
       "hyperlink": "https://www.change.org/p/remove-david-baszucki",
       "postDate": "2026-2-9",
